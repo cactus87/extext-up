@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "downloadUrl": "https://raw.githubusercontent.com/cactus87/extext-up/main/releases/v1.1.0/TextExpander-1.1.0.exe",
+  "releaseNotes": "New Features:\n- Per-snippet post-expansion character settings (space/period)\n- Numpad 0 as delimiter support\n- Automatic 'All' category selection on app startup\n\nImprovements:\n- Global post-expansion settings removed from settings window\n- Default snippet keyword no longer starts with semicolon\n- Cleaner settings UI",
+  "releaseDate": "2025-12-09"
+}
